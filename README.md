@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jtickle
 - 👀 I’m interested in making cool stuff
-- 🌱 I’m currently learning Rust and Flutter
+- 🌱 I’m currently learning Rust and re-living C
