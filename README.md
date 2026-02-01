@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @jtickle
-- 👀 I’m interested in making cool stuff
-- 🌱 I’m currently learning Rust and re-living C
+- 👋 Hi, I’m Jeff Tickle @jtickle
+- 🏢 Professionally I have been a Linux admin, full stack engineer, and DBA. I have 25 years of experience (on and off) in each. I keep current.
+- 🔮 I want to be a systems programmer when I grow up. Rust is the perfect language and I know C well enough that I'm happy to help you migrate.
+- 🧼 Other Rustaceans: you need to learn the importance of the GPL and stop with this MIT/BSD nonsense. Don't throw away your freedom and then complain that someone took it.
+- 🌐 I still like web develoment. If you're doing your rendering and interactivity in the browser, React is the only thing that makes sense. 
+- 🧼 Other Web Devs: If you're doing your rendering on the server, that is a great model for some apps! But why in the HELL would you use React for that? Stop this nonsense, that is what HTMX is for.
+- 😵‍💫 Seriously though I might have some strong opinions but I welcome a well-informed conversation and am open to changing my mind.
+- 🤖 I like to code. I like to write. I like to use my human brain. I am not really interested in automating that - and at my level of experience, I know my limits, but I have yet to find a problem I can't solve but an LLM can. That being said - they are useful for menial or monotonous tasks in coding, and can be helpful in organizing my writing. Know this: if you receive code or communication from me, and I don't directly staet otherwise, then it is from ME and I am responsible for it.
